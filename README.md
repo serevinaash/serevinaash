@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serevina Sherly Maulida</h1>
-<h4 align="center">A passionate software developer looking to improve my programming skills. Always seeking opportunities to learn new programming languages and delve into deeper concepts. Committed to producing high-quality code and contributing to innovative solutions</h4>
+<h5 align="center">A passionate fullstack web developer</h5>
 
 
 - 🌱 I’m currently learning **CodeIgniter,Javascript, ReactJs,Tailwind**
