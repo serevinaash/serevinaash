@@ -1,6 +1,6 @@
-<object data="github-snake.svg" type="image/svg+xml" width="300" height="200">
 <h1 align="center">Hi 👋, I'm Serevina Sherly Maulida</h1>
 <h3 align="center">Frontend Developer</h3>
+<object data="github-snake.svg" type="image/svg+xml" width="300" height="200">
 
 - 🌱 I’m currently learning **Javascript, ReactJs,Tailwind**
 
