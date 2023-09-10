@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Serevina Sherly Maulida</h1>
 <h3 align="center">Frontend Developer</h3>
-<object data="github-snake.svg" type="image/svg+xml" width="300" height="200">
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
+cukup pasate keun iyeu we
 
 - 🌱 I’m currently learning **Javascript, ReactJs,Tailwind**
 
