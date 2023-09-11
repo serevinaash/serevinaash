@@ -2,8 +2,6 @@
 <h3 align="center">Frontend Developer</h3>
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
-cukup pasate keun iyeu we
-
 - 🌱 I’m currently learning **Javascript, ReactJs,Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://serevinaash.github.io/portofolio-serevina/](https://serevinaash.github.io/portofolio-serevina/)
