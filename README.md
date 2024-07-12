@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serevina Sherly Maulida</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 
 - 🌱 I’m currently learning **Javascript, ReactJs,Tailwind**
