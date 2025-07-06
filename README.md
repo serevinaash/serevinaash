@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript, ReactJs,Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://serevinaash.github.io/portfolio/](https://serevinaash.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [[https://serevinaash.github.io/portfolio/](https://serevinasherly.vercel.app/)])
 
 - 📝 I regularly write articles on [https://medium.com/@serevinasherly01](https://medium.com/@serevinasherly01)
 
